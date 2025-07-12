@@ -27,9 +27,14 @@ This platform supports **live collaboration** among multiple users through **Web
 - Seamless and responsive UI
 
 ---
+<img width="1893" height="1026" alt="Screenshot 2025-07-12 171318" src="https://github.com/user-attachments/assets/8da85813-2d59-4689-879e-86454db5cfce" />
+
+
+
+<img width="1900" height="1027" alt="Screenshot 2025-07-12 171721" src="https://github.com/user-attachments/assets/6c9ef631-e86d-4f73-8e2b-42fa4c75f7c4" />
+
 
 ## ✨ Key Features
-
 - 🧑‍🤝‍🧑 **Multi-User Editing**: Real-time changes reflected instantly across connected users.
 - 📝 **Document Creation**: Users can create, name, and manage multiple documents.
 - 🔒 **Authentication**: Secure login/signup using email and password.
