@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 -- this project in supabase acount
+=======
+
+>>>>>>> 5f2fe600e7da0dc87d5982636b453210ffce3e73
 -- Create a security definer function to check if user has access to a document
 -- This prevents recursion by executing with elevated privileges
 CREATE OR REPLACE FUNCTION public.user_has_document_access(doc_id uuid, user_id uuid)

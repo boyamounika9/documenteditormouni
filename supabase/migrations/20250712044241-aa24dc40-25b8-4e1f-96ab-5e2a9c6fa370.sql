@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 -- this project in supabase acount
+=======
+
+>>>>>>> 5f2fe600e7da0dc87d5982636b453210ffce3e73
 -- First, drop the problematic policy that's causing infinite recursion
 DROP POLICY IF EXISTS "Users can view collaborators for documents they have access to" ON public.document_collaborators;
 

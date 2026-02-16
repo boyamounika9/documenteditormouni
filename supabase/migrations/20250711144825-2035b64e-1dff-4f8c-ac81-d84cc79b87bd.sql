@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 -- this project in supabase acount
+=======
+
+>>>>>>> 5f2fe600e7da0dc87d5982636b453210ffce3e73
 -- Create documents table for storing document content and metadata
 CREATE TABLE public.documents (
   id UUID NOT NULL DEFAULT gen_random_uuid() PRIMARY KEY,
